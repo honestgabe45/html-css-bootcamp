@@ -1,0 +1,38 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-image: url("../005_essential-tags/000_img/hxaa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* display properties: inline; inline-block, block, none*/
+    display: inline-block;
+}
+/* control G selects next occurrence of the same thing */
+img {
+    border: 5px groove darkseagreen;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 40px;
+}
+
+.onelogo {
+    border: 5px dotted aquamarine;
+    border-radius: 100%;
+}
+
+.twologo {
+     border: 5px dashed cornflowerblue;
+    border-radius: 100%;
+ }
+
+.threelogo {
+      border: 5px dot-dot-dash darkolivegreen;
+    border-radius: 100%;
+  }
+
+.fourlogo {
+    border: 10px double darkmagenta;
+    border-radius: 100%;
+}
