@@ -1,0 +1,25 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+/* control G selects next occurrence of the same thing */
+img {
+    border: 5px groove darkseagreen;
+}
+
+.onelogo {
+    border: 5px dotted aquamarine;
+}
+
+.twologo {
+     border: 5px dashed cornflowerblue;
+ }
+
+.threelogo {
+      border: 5px dot-dot-dash darkolivegreen;
+  }
+
+.fourlogo {
+    border: 10px double darkmagenta;
+}
