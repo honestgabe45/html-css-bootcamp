@@ -1,0 +1,10 @@
+div {
+    width:300px;
+    height: 200px;
+    background-color: crimson;
+    border-radius: 20px;
+    border: 20px groove cornsilk;
+    background-image: url("https://cdn.hasselblad.com/hasselblad-com/5a930fcc-14a0-44f9-a09b-e1114278ab27_907X_Hero_Right45_4000px.jpg?auto=format&q=97&rect=410,470,1726,1079&w=1024&h=640");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
