@@ -1,0 +1,9 @@
+/* use focus for forms */
+/* use active for links */
+a {
+    font-size: 200px;
+}
+
+a:focus {
+    color:red;
+}
